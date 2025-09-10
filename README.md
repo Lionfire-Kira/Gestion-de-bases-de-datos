@@ -1,1 +1,1 @@
-Como comenzar a utilizar de forma basica mysql en linea de comandos y en interfaz gráfica
+Como comenzar a utilizar de forma basica mysql en linea de comandos y en interfaz gráfica y oracle data base
